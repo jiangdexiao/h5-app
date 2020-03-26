@@ -1,4 +1,4 @@
-# m2c.app
+# h5-app
 
 > A Vue.js project
 
