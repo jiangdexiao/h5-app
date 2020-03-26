@@ -1,0 +1,521 @@
+.goodcontainer {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 0.1rem;
+}
+
+.goodc_top {
+    background: #fff;
+}
+
+.goodimg {
+    width: 7.5rem;
+    height: 7.5rem;
+}
+
+.goodimg img {
+    max-width: 100%;
+    height: 100%;
+}
+
+.goodtit {
+    width: 7.5rem;
+    margin: auto;
+    margin-top: 0.4rem;
+}
+
+.goodtit .tit0 {
+    width: 6.9rem;
+    margin: auto;
+    font-size: 0.32rem;
+    text-align: center;
+    margin-bottom: 0.2rem;
+}
+
+.goodtit .tit1 {
+    color: rgb(153, 153, 153);
+    font-size: 0.26rem;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 0.2rem;
+}
+
+.goodtit .tit2 {
+    color: rgb(253, 50, 66);
+    font-size: 0.36rem;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 0.4rem;
+}
+
+.good_bs {
+    width: 100%;
+    height: 0.86rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+
+.good_bs .quan {
+    width: 100%;
+    height: 100%;
+    padding-top: 0.28rem;
+    border-top: 1px solid rgb(240, 240, 240);
+    clear: both;
+    overflow: hidden;
+}
+
+.labelTicket {
+    width: 0.3rem;
+    height: 0.3rem;
+    background: url(../../../static/images/labelTicket.png) no-repeat center;
+    margin-right: 0.2rem;
+    display: inline-block;
+    float: left;
+}
+
+.good_bs .mj {
+    width: 1.4rem;
+    height: 0.3rem;
+    border: 1px solid #FFC085;
+    font-size: 0.2rem;
+    color: #FE8D22;
+    text-align: center;
+    line-height: 0.3rem;
+    margin-right: 0.2rem;
+    float: left;
+}
+
+.icoContinue {
+    width: 0.24rem;
+    height: 0.24rem;
+    background: url(../../../static/images/icoContinue.png)no-repeat center;
+    float: right;
+    margin-top: 0.05rem;
+}
+
+.good_bs02 {
+    width: 100%;
+    height: 1.26rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+
+.good_bs02 .youhui {
+    width: 100%;
+    height: 100%;
+    padding-top: 0.28rem;
+    border-top: 1px solid rgb(240, 240, 240);
+    clear: both;
+    overflow: hidden;
+}
+
+.labelPromotion {
+    width: 0.3rem;
+    height: 0.3rem;
+    background: url(../../../static/images/labelPromotion.png) no-repeat center;
+    margin-right: 0.2rem;
+    display: inline-block;
+    float: left;
+}
+
+.good_bs02 .tit3 {
+    font-size: 0.24rem;
+}
+
+.good_bs02 .tit3 span {
+    color: red;
+}
+
+.good_bs03 {
+    margin-top: 0.2rem;
+    width: 100%;
+    height: 0.86rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    padding-top: 0.28rem;
+}
+
+.good_bs03 .tit4 {
+    font-size: 0.26rem;
+    color: #666;
+    margin-right: 0.2rem;
+}
+
+.good_bs03 .tit5 {
+    font-size: 0.26rem;
+    color: #333;
+}
+
+.good_bs04 {
+    width: 100%;
+    height: 0.86rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    padding-top: 0.28rem;
+    border-top: 1px solid rgb(240, 240, 240);
+    display: flex;
+}
+
+.icoCommodityAdmit {
+    width: 0.32rem;
+    height: 0.32rem;
+    flex-direction: row;
+    background: url(../../../static/images/icoCommodityAdmit.png) no-repeat center;
+}
+
+.good_bs04 .tit6 {
+    font-size: 0.24rem;
+    color: #B47C7C;
+    margin-left: 0.1rem;
+    margin-right: 0.32rem;
+}
+
+.evaluate {
+    margin-top: 0.2rem;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    padding-top: 0.25rem;
+    width: 100%;
+    height: 0.8rem;
+    font-size: 0.26rem;
+}
+
+.evaluate_tit {
+    width: 100%;
+    height: 2.44rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    padding-top: 0.38rem;
+}
+
+.evaluate_tit .img {
+    width: 0.8rem;
+    height: 0.8rem;
+    border-radius: 50%;
+    margin-right: 0.2rem;
+}
+
+.evaluate_tit .img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.evaluate_tit .tit7 {
+    color: #999;
+    font-size: 0.24rem;
+}
+
+.evaluate_tit .tit8 {
+    color: #444444;
+    font-size: 0.24rem;
+    width: 5.9rem;
+    margin-top: 0.2rem;
+}
+
+.evaluate_tit .tit8 .good_e {
+    margin-right: 0.2rem;
+}
+
+.evaluate_tit .tit8 .xing {
+    width: 0.32rem;
+    height: 0.32rem;
+    display: inline-block;
+    background: url(../../../static/images/icoCommodityEvaluateSelected.png) no-repeat center;
+    margin-right: 0.05rem;
+    /*margin-top: 0.05rem;*/
+}
+
+.good_bs05 {
+    width: 100%;
+    height: 0.8rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    text-align: center;
+    font-size: 0.24rem;
+    margin-top: 0.2rem;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    line-height: 0.8rem;
+}
+
+.good_bs06 {
+    /*width: 7.5rem;*/
+    padding-left: 0.3rem;
+    overflow-x: scroll;
+    padding-top: 0.28rem;
+    height: 3.5rem;
+}
+
+.good_bs06 .imgtit {
+    width: 2rem;
+    margin-right: 0.2rem;
+    display: inline-block;
+}
+
+.imgtit img {
+    width: 2rem;
+    height: 2rem;
+}
+
+.imgtit .tit9 {
+    font-size: 0.26rem;
+    color: #444444;
+    width: 2rem;
+    display: block;
+}
+
+.imgtit .tit10 {
+    color: red;
+    font-size: 0.28rem;
+    margin-top: 0.05rem;
+    text-align: center;
+    display: block;
+}
+
+.good_bs07 {
+    width: 7.5rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    height: 0.8rem;
+    text-align: center;
+    font-size: 0.24rem;
+    line-height: 0.8rem;
+    color: #666;
+}
+
+.good_bs08 {
+    width: 100%;
+}
+
+.good_bs08 img {
+    width: 100%;
+    vertical-align: top;
+    margin-top: -0.04rem;
+}
+
+.foot {
+    width: 100%;
+    background: #fff;
+    border-top: 1px solid rgb(240, 240, 240);
+    bottom: 0px;
+    left: 0px;
+}
+
+.foot_t {
+    height: 1.2rem;
+    padding-left: 0.3rem;
+    padding-right: 0.2rem;
+    padding-top: 0.2rem;
+}
+
+.icoCommodityService {
+    width: 0.48rem;
+    height: 0.48rem;
+    background: url(../../../static/images/icoCommodityService.png) no-repeat center;
+    display: inline-block;
+    margin-right: 0.4rem;
+    margin-top: 0.15rem;
+}
+
+.icoCommodityCart {
+    width: 0.48rem;
+    height: 0.48rem;
+    background: url(../../../static/images/icoCommodityCart.png) no-repeat center;
+    display: inline-block;
+    margin-right: 0.4rem;
+    margin-top: 0.15rem;
+}
+
+.icoCommodityCollectDefault {
+    width: 0.48rem;
+    height: 0.48rem;
+    background: url(../../../static/images/icoCommodityCollectDefault.png) no-repeat center;
+    display: inline-block;
+    margin-right: 0.4rem;
+    margin-top: 0.15rem;
+}
+
+.ljgm {
+    width: 2rem;
+    height: 0.72rem;
+    border: 1px solid rgb(253, 50, 66);
+    border-radius: 0.05rem;
+    line-height: 0.72rem;
+    text-align: center;
+    color: rgb(253, 50, 66);
+    font-size: 0.28rem;
+    background: #fff;
+    margin-right: 0.2rem;
+}
+
+.add_cart {
+    width: 2rem;
+    height: 0.72rem;
+    border: 1px solid rgb(253, 50, 66);
+    border-radius: 0.05rem;
+    line-height: 0.72rem;
+    text-align: center;
+    color: #fff;
+    font-size: 0.28rem;
+    background: rgb(253, 50, 66);
+}
+
+.foot_fx {
+    height: 3rem;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    padding-top: 0.28rem;
+}
+
+.foot_fx .tit {
+    font-size: 0.26rem;
+    color: #666;
+    text-align: center;
+}
+
+.imgtatal {
+    display: flex;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    margin-top: 0.2rem;
+}
+.imgtatal img{
+    width:0.8rem;
+    height:0.8rem;
+    margin:0px auto;
+}
+/* .mr2 {
+    padding-right: 0.5rem;
+} */
+
+.weixin_tit {
+    text-align: center;
+    font-size: 0.21rem;
+    margin-top: 0.05rem;
+}
+
+.wid {
+    width: 2rem;
+    display: inline-block;
+}
+
+
+/*订单跟踪*/
+
+.logistics_message {
+    height: 1.28rem;
+    width: 100%;
+    background: #fff;
+    padding: 0.2rem 0.3rem;
+    margin-bottom: 0.2rem;
+}
+
+.logistics {
+    font-size: 0.24rem;
+    color: rgb(102, 102, 102);
+    line-height: 0.4rem;
+}
+
+.logistics_cen {
+    padding: 0.35rem;
+    background: #FFFFFF;
+    clear: both;
+    overflow: hidden;
+}
+
+.logistics_cen .logistics_left {
+    color: rgb(153, 153, 153);
+    width: 20%;
+    /*text-align: center;*/
+    display: inline-block;
+}
+
+.logistics_left .tit01 {
+    font-size: 0.26rem;
+}
+
+.logistics_left .tit02 {
+    font-size: 0.2rem;
+}
+
+.logistics_right {
+    /*padding-top:0.1rem;*/
+    width: 80%;
+    height: 1.28rem;
+}
+
+.bg {
+    background: url(../../../static/images/ico_profile_site.png) no-repeat left;
+    height: 0.32rem;
+    width: 0.256rem;
+    background-size: 100% 100%;
+    left: -5px;
+    top: -13px;
+}
+
+.xian {
+    width: 0.04rem;
+    background: #FFA7AE;
+    height: 100%;
+}
+
+.bg02 {
+    height: 0.2rem;
+    width: 0.2rem;
+    background-size: 100% 100%;
+    left: -4px;
+    top: 5px;
+    background: #FFA7AE;
+    border-radius: 50%;
+}
+
+.logistics_right .tit {
+    padding-left: 0.3rem;
+    display: inline-block;
+    width: 95%;
+}
+
+.logistics_right .tit01 {
+    color: #FD3242;
+    font-size: 0.28rem;
+}
+
+.logistics_right .tit02 {
+    color: #444;
+    font-size: 0.22rem;
+}
+
+.mt3 {
+    margin-top: 0.3rem;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+
+/*这行设置能实现单层满屏显示*/
+
+.swiper-container .swiper-wrapper .swiper-slide {
+    width: 7.5rem!important;
+    height: 7.5rem;
+    margin-right: initial!important;
+    text-align: center;
+    background: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
